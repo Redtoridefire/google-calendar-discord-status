@@ -1,0 +1,13 @@
+{
+  "name": "discord-calendar-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that updates your profile status based on your Google Calendar events",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "googleapis": "^109.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
